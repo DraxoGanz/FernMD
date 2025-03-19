@@ -180,7 +180,7 @@ function getSavedLoginInfo() {
 //================= { LOGIN MODULE } =================\\
 async function handleLogin() {
     const checkLogin = async (username, password) => {
-        const dbUrl = 'https://raw.githubusercontent.com/Abiyan09/newscript/refs/heads/main/auth.json';
+        const dbUrl = 'https://raw.githubusercontent.com/DraxoGanz/database-fern/refs/heads/main/db/auth.json';
         try {
             const response = await axios.get(dbUrl);
             const user = response.data.find(u => u.USERNAME === username && u.PASSWORD === password);

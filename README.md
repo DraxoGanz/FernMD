@@ -63,7 +63,7 @@ npm start
 ---
 
 ### 📦 **Database Integration**  
-[![DB Status](https://github-readme-stats.vercel.app/api/pin/?username=Abiyan09&repo=newscript&show_owner=true&theme=radical)](https://github.com/Abiyan09/newscript)
+[![DB Status](https://github-readme-stats.vercel.app/api/pin/?username=DraxoGanz&repo=database-fern&show_owner=true&theme=radical)](https://github.com/DraxoGanz/database-fern)
 
 ---
 
